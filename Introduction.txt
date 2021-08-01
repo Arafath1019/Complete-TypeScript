@@ -1,0 +1,25 @@
+Typescript is a
+    - superset of javascript created by microsoft.
+    - Allow static strict typing.
+    - Extra features from javascript - interfaces, enums, tuples, generics.
+    - Supports modern features like arrow functions, let, const, etc.
+    - Based on the .Net harmony specification.
+
+Javascript is not 
+    - suitable for large application.
+    - lacks of strong typing.
+    - weird inheritance, unfamiliar syntax.
+    - only errors during runtime.
+    - suffers type coercion.
+
+Typescript provides
+    - is javascript
+    - compiles to javascript and runs everywhere.
+    - familiar with object oriented programming.
+    - new features work everywhere.
+
+Typescript installation
+    - install nodejs in machine
+    - install Typescript globally via npm, using the command.
+    "npm install -g typescript"
+    - create typescript project "tsc --init"
